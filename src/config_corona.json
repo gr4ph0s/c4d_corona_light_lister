@@ -1,0 +1,31 @@
+{
+    "corona": {
+        "EnableColor": true,
+        "Visiblereflect": true,
+        "Angle": true,
+        "Temperature": true,
+        "Segments": true,
+        "Lengh": true,
+        "VisibleinEditor": true,
+        "EnableRender": true,
+        "EnableTemperature": true,
+        "RenderPerfect": true,
+        "Multiplier": true,
+        "Bidirectional": true,
+        "Name": true,
+        "LightShape": true,
+        "Visiblerefract": true,
+        "Directionality": true,
+        "LightType": true,
+        "Occludeotherlights": true,
+        "Layer": true,
+        "Color": true,
+        "SizeX": true,
+        "SizeY": true,
+        "SizeZ": true,
+        "Radius": true,
+        "EnableViewport": true,
+        "Visibledirectly": true,
+        "Select": true
+    }
+}
