@@ -7,7 +7,7 @@ Even if this video is the redshift light lister it's the same for corona(with co
 The version showed in the video is the v1, some features was added since it.
 
 ## Download
-You can download the actual version on github or if you prefer a zip [here](http://graphos.xyz/files/Plugin/graph_corona_light_lister/graph_corona_lightlister.zip)
+You can download the actual version on github or if you prefer a zip [here](http://graphos.xyz/files/Plugin/graph_corona_lightlister/graph_corona_lightlister.zip)
 - Unizip in your c4d plugin folder
 - Enjoy !
 
